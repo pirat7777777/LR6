@@ -31,3 +31,10 @@
 4. Настроил клиент git, введя имя пользователя (Группа Фамилия И.О.) и email.![screenshots 1.2](screenshots/screenshots%201.2.png)![screenshots 1.3](screenshots/screenshots%201.3.png)
 5. Клонировал свой личный удалённый репозиторий на компьютер.![screenshots 2](screenshots/screenshots%202.png)
 6. Добавил файл через интерфейс GitHub. Подтянул изменения в локальный репозиторий.![screenshots 3](screenshots/screenshots%203.png)
+7. Получил историю операций для каждой из веток.![screenshots 4](screenshots/screenshots%204.png)
+8. Просмотрел последние изменения.![screenshots 5](screenshots/screenshots%205.png)
+9. Выполнил слияние в ветку master, разрешив конфликт.
+    - Попытался слить, получив конфликт![screenshots 6](screenshots/screenshots%206.png)
+    - Вручную исправил файл. И заккомител. ![screenshots 7.1](screenshots/screenshots%207.1.png)
+    - Проверил слияние.![screenshots 7.2](screenshots/screenshots%207.2.png)
+10. Удалил побочную ветку после успешного слияния.![screenshots 8](screenshots/screenshots%208.png)
