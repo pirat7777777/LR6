@@ -38,3 +38,12 @@
     - Вручную исправил файл. И заккомител. ![screenshots 7.1](screenshots/screenshots%207.1.png)
     - Проверил слияние.![screenshots 7.2](screenshots/screenshots%207.2.png)
 10. Удалил побочную ветку после успешного слияния.![screenshots 8](screenshots/screenshots%208.png)
+11. Сделал изменения и зафиксировал их, оставляя комментарии, несколько раз.
+    - Создал файл.![screenshots 9.1](screenshots/screenshots%209.1.png)
+    -  Зафиксировал.![screenshots 9.2](screenshots/screenshots%209.2.png)
+    - Дополнил файл.![screenshots 10.1](screenshots/screenshots%2010.1.png)
+    - Зафиксировал.![screenshots 10.2](screenshots/screenshots%2010.2.png)
+12. Сделал откат коммита.![screenshots 11](screenshots/screenshots%2011.png)
+13. Создать ветку для отчёта.![screenshots 12](screenshots/screenshots%2012.png)
+14. Начал оформлять отчёт в файле README.md, с помощью VS Code ![screenshots 13](screenshots/screenshots%2013.png)
+    - При написании отчёта периодически делал коммиты, не забывая комментировать.![screenshots 14](screenshots/screenshots%2014.png)
