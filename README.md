@@ -46,4 +46,5 @@
 12. Сделал откат коммита.![screenshots 11](screenshots/screenshots%2011.png)
 13. Создать ветку для отчёта.![screenshots 12](screenshots/screenshots%2012.png)
 14. Начал оформлять отчёт в файле README.md, с помощью VS Code ![screenshots 13](screenshots/screenshots%2013.png)
-    - При написании отчёта периодически делал коммиты, не забывая комментировать.![screenshots 14](screenshots/screenshots%2014.png)
+    - При написании отчёта периодически делал коммиты, не забывая комментировать.![screenshots 14.1](screenshots/screenshots%2014.1.png)![screenshots 14.2](screenshots/screenshots%2014.2.png)
+15. Получил историю операций в форматированном виде (сокращённый хэш + дата + имя автора + комментарий). Добавил её в отчёт и сделать финальную фиксацию изменений.![screenshots 15](screenshots/screenshots%2015.png)
